@@ -15,7 +15,7 @@ from bert import modeling
 from bert import optimization
 from bert import tokenization
 import tensorflow as tf
-import tf_metrics
+import tf.metrics
 import pickle
 import shutil
 
