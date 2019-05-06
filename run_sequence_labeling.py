@@ -25,7 +25,7 @@ FLAGS = flags.FLAGS
 
 flags.DEFINE_string(
     "data_dir", None,
-    "The input datadir.",
+    "The input datadir."
 )
 
 flags.DEFINE_string(
